@@ -1,16 +1,15 @@
-# 🌊 Flood Forecasting Agent
-
 ---
-title: Flood Forecasting Agent
-emoji: 🩺
-colorFrom: "#ff7f50"
-colorTo: "#1e90ff"
+title: 🌊 Flood Forecasting Agent
+emoji: 🌦️
+colorFrom: blue
+colorTo: green
 sdk: streamlit
-sdk_version: "1.30.0"
+sdk_version: "1.26.0"   # or your Streamlit version
 app_file: app.py
 pinned: false
 ---
 
+# 🌊 Flood Forecasting Agent
 An AI-powered **Internet of Agents** solution for predicting flood risks and locating nearby safe places.
 
 ## 🚀 Features
