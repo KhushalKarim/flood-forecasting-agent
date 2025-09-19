@@ -25,16 +25,16 @@ flood-forecasting-agent/
 1. Clone this repository or download the code:  
    ```bash
    git clone https://github.com/yourusername/flood-forecasting-agent.git
-   cd flood-forecasting-agent
+   cd flood-forecasting-agent```
    
 2. Create a virtual environment (recommended):  
    ```bash
    python -m venv venv
    source venv/bin/activate   # Mac/Linux
-   venv\Scripts\activate      # Windows
+   venv\Scripts\activate      # Windows```
 3. Install dependencies:  
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt```
 
 
 ---
@@ -43,7 +43,7 @@ flood-forecasting-agent/
 
 Run the Streamlit app locally:  
 ```bash
-streamlit run app.py
+streamlit run app.py```
 
 
 ---
